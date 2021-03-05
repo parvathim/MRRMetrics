@@ -1,0 +1,13 @@
+{
+  "name": "mrrmetrics",
+  "version": "0.0.0",
+  "description": "MRRMetrics",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "chartmogul-node": "^1.2.1",
+    "dotenv": "^8.2.0"
+  }
+}
